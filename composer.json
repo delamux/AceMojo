@@ -3,11 +3,14 @@
     "description": "AceMojo plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
+    "keywords": ["delamux", "cakephp", "cake3", "plugin", "ace", "google", "c9.io"],
     "require": {
         "cakephp/cakephp": "^3.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7|^6.0"
+        "phpunit/phpunit": "^5.7|^6.0",
+    "cakephp/cakephp-codesniffer": "master-dev",
+    "cakephp/bake": "~1.1"
     },
     "autoload": {
         "psr-4": {
