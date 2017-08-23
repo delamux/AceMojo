@@ -1,5 +1,5 @@
 {
-    "name": "delamux/AceMojo",
+    "name": "delamux/acemojo",
     "description": "AceMojo plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
