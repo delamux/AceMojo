@@ -1,5 +1,5 @@
 {
-    "name": "delamux/CKEditorMojo",
+    "name": "delamux/ckeditormojo",
     "description": "AceMojo plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
