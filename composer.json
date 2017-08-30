@@ -1,9 +1,9 @@
 {
-    "name": "delamux/acemojo",
+    "name": "delamux/CKEditorMojo",
     "description": "AceMojo plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
-    "keywords": ["delamux", "cakephp", "cake3", "plugin", "ace", "google", "c9.io"],
+    "keywords": ["delamux", "cakephp", "cake3", "plugin", "CKEditor", "google", "CodeEditor", "Editor"],
     "require": {
         "cakephp/cakephp": "^3.4"
     },
