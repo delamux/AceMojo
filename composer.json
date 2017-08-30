@@ -1,6 +1,6 @@
 {
     "name": "delamux/ckeditormojo",
-    "description": "AceMojo plugin for CakePHP",
+    "description": "CKEditorMojo plugin text and code Editor for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
     "keywords": ["delamux", "cakephp", "cake3", "plugin", "CKEditor", "google", "CodeEditor", "Editor"],
@@ -14,12 +14,12 @@
     },
     "autoload": {
         "psr-4": {
-            "AceMojo\\": "src"
+            "CKEditorMojo\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "AceMojo\\Test\\": "tests",
+            "CKEditorMojo\\Test\\": "tests",
             "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
         }
     }
